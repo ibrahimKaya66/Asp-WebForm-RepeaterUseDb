@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp-WebForm-RepeaterWithDb", "Asp-WebForm-RepeaterWithDb\Asp-WebForm-RepeaterWithDb.csproj", "{594A4815-9BDF-40D3-B937-317FAAEB765F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594A4815-9BDF-40D3-B937-317FAAEB765F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594A4815-9BDF-40D3-B937-317FAAEB765F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594A4815-9BDF-40D3-B937-317FAAEB765F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594A4815-9BDF-40D3-B937-317FAAEB765F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289B5440-A8AD-4C18-95C7-3C0E01766BDB}
+	EndGlobalSection
+EndGlobal
